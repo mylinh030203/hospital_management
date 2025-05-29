@@ -1,2 +1,0 @@
-pip install PyQt5 mysql-connector-python matplotlib
-run: python controller.py
